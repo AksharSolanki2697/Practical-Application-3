@@ -9,9 +9,11 @@ After understanding, preparing, and modeling your data, build a Jupyter Notebook
 
 
 Steps Followed: 
+
 Data Exploration:
   1. Importing Data into a Pandas Dataframe.
   2. Checking for NULL / None values in any features.
+
 Feature Exploration:
   1. Explaining all input variables
   2. Printing all unique values for all categorical attributes to measure the depth of data available
